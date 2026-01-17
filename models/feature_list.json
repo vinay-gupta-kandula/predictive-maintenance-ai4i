@@ -1,0 +1,1 @@
+["Type", "Air_temperature_K", "Process_temperature_K", "Rotational_speed_rpm", "Torque_Nm", "Tool_wear_min", "Power_kw", "Combined_Energy", "Temp_Delta", "High_Temp_Flag", "Wear_x_Torque", "Stress_Index", "Torque_per_Wear", "Speed_x_Temp", "Torque_sq", "Speed_sq", "Temp_Squared", "Log_Tool_Wear", "Wear_Bin"]
